@@ -17,6 +17,7 @@ Individual discussions with various members of Cardano community, including Stak
 Current Voting State based on Gov Tools that indicate the will of DReps and SPOs - particularly with an increased emphasis on the later, due to their technical expertice and immediate effect of such as decision.
 With approx. 70% of SPOs voting Yes as of: 2024.10.27
 
+![Gov Tools Screenshot](voting/2024/3/Screenshot 2024-10-27 030602.jpg)
 
 My decision is influenced and ratified based on the following reasons:
 - it's not a governance action that will actually be implemented but more like a poll to get an idea of how the community approach the issue and to engage the dreps in discussions and voting participation.
