@@ -1,5 +1,11 @@
+# RATIFICATION OF 3RD INFO ACTION - "Should K increased?"
 ## DOCUMENT IS CURRENTLY IN STATUS: WORK IN PROGRESS
+
+*A permanent link of this text is available & openly acccessible on [Github](https://github.com/kostaspanagias/drep/blob/881cdc4b3319126f87c3449664ac50a6cb7ae454/voting/2024/3/3rd_info_action.md)*
+
 DATE: 2024.10.27
+
+---
 
 After having taken into consideration the following:
 
