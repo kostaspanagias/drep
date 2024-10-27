@@ -37,7 +37,7 @@ With approx. 70% of SPOs voting Yes as of: 2024.10.27
 ![Gov Tools 3rd Info Action Screenshot](https://github.com/kostaspanagias/drep/blob/55e5a7fba0398a7969c2d0416d3a2559571513fc/voting/2024/3/Screenshot%202024-10-27-030602.jpg)
 
 
-## 4. Polls
+### 4. Polls
 - [Reward Sharing Scheme: k and minPoolCost](https://adastat.net/polls/96861fe7da8d45ba5db95071ed3889ed1412929f33610636c072a4b5ab550211)
 - [Poll on X by Rick McCracken: How would you set the K parameter? Currently set to 500.](https://x.com/RichardMcCrackn/status/1611748338021302273)
 
