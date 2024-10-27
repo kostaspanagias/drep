@@ -30,7 +30,7 @@ Individual discussions with various members of Cardano community, including Stak
 
 
 ### 3. Current Voting State
-Current Voting State based on Gov Tools that indicate the will of DReps and SPOs - particularly with increased emphasis on the later, due to their technical expertice and immediate effect of such as decision.
+Current Voting State based on Gov Tools that indicate the will of DReps and SPOs - particularly with increased emphasis on the later, due to their technical expertice and immediate effect of such a decision.
 
 With approx. 70% of SPOs voting Yes as of: 2024.10.27
 
