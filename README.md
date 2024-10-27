@@ -1,5 +1,5 @@
 # About
-These files are used in Cardano Gov Tool to register as a DRep and to provide context about my Voting.
+This repo is used for hosting the files needed for the Cardano [Gov Tool](https://gov.tools/), both to register as a DRep and to provide context about my Voting.
 
 ## Read my Profile
 Learn more about my guiding principles, motivations & what initiatives I will support [here](profile/profile.md).
