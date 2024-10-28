@@ -1,0 +1,125 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "givenName": "CIP119:givenName",
+        "bio": "CIP119:bio",
+        "email": "CIP119:email",
+        "paymentAddress": "CIP119:paymentAddress",
+        "qualifications": "CIP119:qualifications",
+        "motivations": "CIP119:motivations",
+        "objectives": "CIP119:objectives",
+        "doNotList": "CIP119:doNotList",
+        "image": {
+          "@id": "CIP119:image",
+          "@context": {
+            "ImageObject": "https://schema.org/ImageObject"
+          }
+        },
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [
+    {
+      "witness": {
+        "publicKey": {
+          "@value": "a401010327200621582074ebc344a82317fe6134e44e380ba9d520860935490ed84b09c20e767b61de6c"
+        },
+        "signature": {
+          "@value": "845829a201276761646472657373581c30a2cd857800b4f80ef869903a70c376cb538b9f3e5e8d3b2e6df717a166686173686564f458445665726966792044526570206472657031787a33766d707463717a3630737268636478677235757872776d3934387a756c386530673677657764686d3377337535636c6e5840800f89c1f890682231be345f7ce8389daa0de1da7eb953ea9a6a7e7efc31597eaf026357ba33c6b5d24c787efa17a821b6f145d15d81c503fa53dcddab88cf0a"
+        },
+        "witnessAlgorithm": {
+          "@value": "Ed25519"
+        }
+      }
+    }
+  ],
+  "hashAlgorithm": {
+    "@value": "blake2b-256"
+  },
+  "body": {
+    "doNotList": {
+      "@value": "false"
+    },
+    "email": {
+      "@value": "Kostas_panagias@yahoo.com"
+    },
+    "givenName": {
+      "@value": "Kostas Panagias"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://ipfs.io/ipfs/QmVhdGhcjCqtBJ2C291BujBfpEDTDhTE3cFrhfZvUzt1Ap",
+      "sha256": "4a67f90cdd77b7b16fff3c6cc7dcdf5913194eddb73fb58e13779a45df0f4fbd"
+    },
+    "motivations": {
+      "@value": "We have build the first digital country, and now we are all its citizens. It is both our duty and a unique privilege to actively participate in the commons and have the power to shape the future of Cardano.\n \nBecoming a DRep is one of the most meaningful ways to be actively engaged in the entire Cardano ecosystem, far beyond just the governance aspect. Watching the Cardano ecosystem flourish is my greatest motivation. It drives me to continue learning daily, engaging in meaningful discussions with the community, and educating others on the merits of Cardano."
+    },
+    "objectives": {
+      "@value": "I am a decentralization maximalist, advocating for power to the edges and a voice for everyone. Therefore, I encourage every Cardano holder to register as a DRep. However, a ship is best steered by a captain who knows how to navigate rough seas rather than the untrained crew. For those without the time to study & conduct due diligence, I suggest delegating to someone aligned with your principles.\n\nAs a DRep, I will be transparent, providing clear reasoning for every vote and welcoming feedback from my delegators. I am committed to engaging with the community and refining my perspectives.\n\nMy votes will always be in the direction of:\n\n* Greater decentralization\n* Ecosystem growth & sustainable expansion\n* A long-term vision over short-term gains, adhering to the \"steady wins the race\" Cardano's development philosophy\n* Responsible and justifiable treasury spending\n* A deflationary monetary policy\n* Decisions that benefit the many, not the few"
+    },
+    "paymentAddress": {
+      "@value": "addr1qylfmw8z34kms7s5wvx340p9w7wpyd37uyjzxgrzwemg57l3dv8y7pfcf9u95eae7gnq8vy9wytypawfkuskkge4kx5struhxe"
+    },
+    "qualifications": {
+      "@value": ""
+    },
+    "references": [
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "X (formerly Twitter)"
+        },
+        "uri": {
+          "@value": "https://x.com/kostas_panagias"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Drep id in X Bio"
+        },
+        "uri": {
+          "@value": "https://x.com/kostas_panagias"
+        }
+      }
+    ]
+  }
+}
