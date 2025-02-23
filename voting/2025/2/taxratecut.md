@@ -2,7 +2,7 @@
 
 My vote for the proposal to decrease the treasury tax from 20% to 10% is **NO**. Below is my rationale.
 
-Permanent Link: https://github.com/kostaspanagias/drep/blob/404d39e999a46a8b14a1abe17f8e74da97185193/voting/2025/2/taxratecut.md
+Permanent Link: https://github.com/kostaspanagias/drep/blob/722e1894215f6209a700fe2b9291811aaf1eb343/voting/2025/2/taxratecut.md
 
 ## Rationale
 
