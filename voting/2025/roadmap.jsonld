@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "body": {
+    "comment": "I appreciate the thoughtfulness and ambition of the proposed roadmap; however, I believe there is room for improvement in addressing emerging technological threats. Specifically, I see quantum resistance research as a critical priority that must be included in the roadmap. With advancements like Microsoft’s recent release of Majorana chip, it appears quantum computing is arriving sooner than anticipated. Cardano needs to proactively prepare for this shift to ensure its cryptographic security remains intact.\n\nTherefore, I will vote “NO” on this Info Action - **NOT AS A REJECTION OF THE ROADMAP**, but as an opportunity to provide feedback to the Product Committee. My intention is to review my vote before the expiration of this governance action, signaling approval once quantum resistance research is incorporated into the roadmap."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
