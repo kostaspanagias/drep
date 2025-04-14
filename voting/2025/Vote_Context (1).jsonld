@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "body": {
+    "comment": "I decided to vote YES on this \"Info Action\" for the following reasons:\n\nMy approach on budget spending is relatively conservative. I am in favor of being watchful on how funds are spent.\n\nI recognize that this is the first time we are doing this procedure and we would make errors along the way. I've come to accept that we would be far from perfect in allocating the funds on the first year but we would learn from our mistakes and optimize.\n\nA budget of 300 million ADA doesn't mean we have to spend it all. It's just a cap to ensure we don't overspent. I've seen in the corporate world how leftover budgets often get wasted at the end of the year just to avoid having a smaller budget the next year. While this isn't exactly the same with Cardano (since we have a say in individual proposals and have a vested interest in protecting the treasury & Cardano's price), it's still a risk we need to manage.\n\nThe reasoning behind setting the budget at 300 million ADA for this year and 250 million for next year makes sense. It's based on the money coming in from transaction fees. Essentially, we're not spending more than we earn each year.\n\nI would have preferred to decide on the 2026 budget separately after we've gone through the 2025 process and gained some experience. However, since we can always vote again and change next year's limit later, I'm okay with this proposal.\n\nThe blockchain space is super competitive right now, and it's crucial that we invest enough to stay ahead. Even though I'm generally cautious about spending, I believe we need to invest more now to gain momentum. We can always be more conservative later."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
