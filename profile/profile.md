@@ -13,7 +13,7 @@ My votes will always be in the direction of:
 
 * **Ecosystem Growth**: Supporting proposals that contribute to the healthy expansion of the Cardano network. 
 
-* **Long-Term Vision**: Focusing on medium & long-term benefits over short-term "gains", in line with Cardano's development philosophy of: "steady wins the race" appoach. 
+* **Long-Term Vision**: Focusing on medium & long-term benefits over short-term "gains", in line with Cardano's development philosophy of: "steady wins the race" approach. 
 
 * **Sustainable & Justifiable Treasury Spending**: ensuring funds are spend responsibly and only for initiatives that collectively enhance the Cardano ecosystem. 
 
@@ -24,7 +24,7 @@ My votes will always be in the direction of:
 
 # Motivation
 
-We have build the first digital country, and now we are all its citizens. **It is both our duty and a unique privilege** to actively participate in the commons and have the power to shape the future of Cardano.
+We have built the first digital country, and now we are all its citizens. **It is both our duty and a unique privilege** to actively participate in the commons and have the power to shape the future of Cardano.
 
 Becoming a DRep is one of the most meaningful ways to be actively engaged in the entire Cardano ecosystem, far beyond just the governance aspect. Watching the Cardano ecosystem flourish is my greatest motivation. It drives me to continue learning daily, engaging in meaningful discussions with the community, and educating others on the merits of Cardano.
 
