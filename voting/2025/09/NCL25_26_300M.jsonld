@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "# Rationale for Voting YES on the 300M ADA Net Change Limit (Epochs 563–635)\n\nI am voting **YES** on this Net Change Limit (NCL) proposal, as it aligns perfectly with the position I have consistently advocated for in my previous rationales.\n\nSetting the NCL at 300 million ADA matches the expected annual treasury inflow, ensuring that we maintain fiscal responsibility while still enabling meaningful investment in Cardano’s continued growth. This figure strikes the right balance between prudent spending and supporting the ecosystem’s development needs.\n\nI also appreciate the thoughtful structuring of this NCL to cover not only the remainder of 2025 but also a significant portion of 2026. This approach provides continuity for ongoing and upcoming budget proposals, many of which are designed around 12-month cycles, and ensures that essential development can continue without unnecessary interruptions while we debate future budgets.\n\nFor these reasons, I am in strong support of this Info Action and I am voting YES."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
