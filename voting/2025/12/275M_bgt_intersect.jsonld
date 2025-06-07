@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "# Rationale for Voting YES on the \"Cardano Blockchain Ecosystem Budget - 275M ada Administered by Intersect\" Info Action\n\nI am voting **YES** on this Budget Info Action.\n\nFirst, the total amount requested (275 million ADA) is within the range I have consistently supported in all of my previous Net Change Limit Info Action rationales (300M ADA). This ensures that treasury spending remains responsible and sustainable.\n\nSecond, the proposals included in this budget were approved by the majority of voting power of DReps who participated in the Ekklesia process. While some may argue that bundling many proposals together means not every proposal will have universal support, the overall collection clearly reflects the will of the active governance participants.\n\nFinally, this budget closely matches my own voting record as a DRep. Out of the 39 proposals, I have voted YES on the vast majority, with only 4 NO votes and 4 ABSTAINS. This strong alignment gives me confidence that this budget represents both my own judgment and the broader community’s priorities.\n\n**For these reasons, I am supporting this Info Action and voting YES.**"
+  },
+  "hashAlgorithm": "blake2b-256"
+}
