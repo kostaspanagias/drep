@@ -1,0 +1,1 @@
+In alignment with my voting on the 2025 Cardano Budget Reconciliation process through Ekklesia platform (https://adastat.net/dreps/drep1ygc29nv90qqtf7qwlp5eqwnscdmvk5utnul9arfm9eklw9cphfhhu#budget_votes), I support this withdrawal and therefore vote YES.
