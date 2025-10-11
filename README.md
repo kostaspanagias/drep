@@ -13,9 +13,7 @@ If you want to learn more, message me, ask questions or just connect with me, my
 
 ## 2025
 
-- [Stablecoin DeFi Liquidity Budget](https://github.com/kostaspanagias/drep/blob/10a03ad94aed6788f42c408d64b88a9839a3b091/voting/2025/17/voting_rationale.md)
-
-| Action ID | Type | Link on Adastat Explorer |
-|-----------|------|------|
-| gov_action1u4jrcvlkppjzuv5j9z5ksacwtvv77h6glu0knpcjut8gvjjfu0cqqt3alsy | Info Action | [Link on Adastat Explorer](https://adastat.net/governances/e5643c33f608642e329228a968770e5b19ef5f48ff1f698712e2ce864a49e3f000) |
+- Stablecoin DeFi Liquidity Budget
+- Budget: ₳5M Loan for Cardano's Global Listing Expansion - Powered by Snek
+- Cardano in Oceania: A community-led strategic plan for investing in growth.
 
