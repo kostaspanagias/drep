@@ -6,7 +6,7 @@ I am voting yes in this Governance Info Action. Please read my full rationale be
 
 A [PDF version][pdf-link] of this rationale is also made available.\n\n[pdf-link]: https://ipfs.io/ipfs/QmW5FHqaqNLwVDxAnPcbuWj6cweU8zxrBKwRZt9ieXPvd4
 
-A PDF version of this rationale is also made available in: [IPFS storage](https://ipfs.io/ipfs/QmW5FHqaqNLwVDxAnPcbuWj6cweU8zxrBKwRZt9ieXPvd4) / [this github repository]().
+A PDF version of this rationale is also made available in: [IPFS storage](https://ipfs.io/ipfs/QmW5FHqaqNLwVDxAnPcbuWj6cweU8zxrBKwRZt9ieXPvd4) / [this github repository](voting/2025/18/QmW5FHqaqNLwVDxAnPcbuWj6cweU8zxrBKwRZt9ieXPvd4.pdf).
 
 
 The Snek community has already proven their strong commitment to the Cardano ecosystem. They have persevered through both easy and tough times to advance Cardano and have developed additional products, showing their dedication beyond just being a memecoin.
