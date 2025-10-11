@@ -15,5 +15,5 @@ If you want to learn more, message me, ask questions or just connect with me, my
 
 - Stablecoin DeFi Liquidity Budget
 - Budget: ₳5M Loan for Cardano's Global Listing Expansion - Powered by Snek
-- Cardano in Oceania: A community-led strategic plan for investing in growth.
+- [Cardano in Oceania: A community-led strategic plan for investing in growth.](voting/2025/17/voting_rationale.md)
 
