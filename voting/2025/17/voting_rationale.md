@@ -2,7 +2,7 @@
 I have decided to vote "NO" in this governance action based on the following rationale.
 
 # Rationale Statement
-A [PDF version](https://ipfs.io/ipfs/QmYHVNanVULPmgA3HybuQWEtpv26MiBWnSkxYspTTKfAN6) of this rationale is also made available.
+A PDF version of this rationale is also made available in: [IPFS storage](https://ipfs.io/ipfs/QmYHVNanVULPmgA3HybuQWEtpv26MiBWnSkxYspTTKfAN6) / [this github repository](voting/2025/17/QmYHVNanVULPmgA3HybuQWEtpv26MiBWnSkxYspTTKfAN6.pdf).
 
 I have decided to vote No based on the following rationale:
 
