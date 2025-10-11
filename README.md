@@ -8,3 +8,7 @@ Learn more about my guiding principles, motivations & what initiatives I will su
 I regularly post on X (formerly Twitter) about Cardano, Bitcoin, Blockchain, Decentralization & Crypto in general.
 
 If you want to learn more, message me, ask questions or just connect with me, my X Profile is: https://x.com/kostas_panagias.
+
+# Voting Rationales
+
+## 2025
