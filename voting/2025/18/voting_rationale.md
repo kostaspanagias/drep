@@ -6,6 +6,9 @@ I am voting yes in this Governance Info Action. Please read my full rationale be
 
 A [PDF version][pdf-link] of this rationale is also made available.\n\n[pdf-link]: https://ipfs.io/ipfs/QmW5FHqaqNLwVDxAnPcbuWj6cweU8zxrBKwRZt9ieXPvd4
 
+A PDF version of this rationale is also made available in: [IPFS storage](https://ipfs.io/ipfs/QmW5FHqaqNLwVDxAnPcbuWj6cweU8zxrBKwRZt9ieXPvd4) / [this github repository]().
+
+
 The Snek community has already proven their strong commitment to the Cardano ecosystem. They have persevered through both easy and tough times to advance Cardano and have developed additional products, showing their dedication beyond just being a memecoin.
 
 After listening to community feedback from the initial submission, they made amendments to their proposal. The biggest improvement, in my view, is transforming this request into a loan instead of a grant. This clearly demonstrates a high level of accountability from the Snek team and their belief that their venture will generate sufficient value to repay the 5M ADA requested from the treasury. While repayment is not guaranteed - especially considering market turbulence like the upcoming bear market - I recognise that every venture carries some risk.
