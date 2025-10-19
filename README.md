@@ -11,6 +11,8 @@ If you want to learn more, message me, ask questions or just connect with me, my
 
 # Voting Rationales
 
+I'm gradually creating an index below with all my voting rationales so people can see how I’ve voted on every governance proposal. This is part of a broader effort to increase my accountability and honor the trust that delegators have placed in me.
+
 ## 2025
 
 - [Defining the Cardano 2030 Vision & Strategy](voting/2025/20/2030_vision_strategy.md)
