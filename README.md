@@ -14,7 +14,7 @@ If you want to learn more, message me, ask questions or just connect with me, my
 ## 2025
 
 - [Defining the Cardano 2030 Vision & Strategy](voting/2025/20/2030_vision_strategy.md)
-- Stablecoin DeFi Liquidity Budget
+- [Stablecoin DeFi Liquidity Budget](voting/2025/19/Stablecoin_DeFi_Liquidity_Budget.md)
 - [Budget: ₳5M Loan for Cardano's Global Listing Expansion - Powered by Snek](voting/2025/18/voting_rationale.md)
 - [Cardano in Oceania: A community-led strategic plan for investing in growth.](voting/2025/17/voting_rationale.md)
 
